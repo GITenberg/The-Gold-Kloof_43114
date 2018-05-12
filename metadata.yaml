@@ -1,0 +1,31 @@
+_repo: The-Gold-Kloof_43114
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43114-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Bryden, H. A. (Henry Anderson)
+    alias: Bryden, Henry Anderson
+    birthdate: 1854
+    deathdate: 1937
+    gutenberg_agent_id: '36106'
+    url: http://www.gutenberg.org/2009/agents/36106
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Bryden
+description: ''
+gutenberg_issued: '2013-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43114'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'South Africa -- Juvenile fiction'
+- !lcsh 'Gold -- Juvenile fiction'
+title: The Gold Kloof
+url: http://www.gutenberg.org/ebooks/43114
