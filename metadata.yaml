@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36106
     wikipedia: http://en.wikipedia.org/wiki/Henry_Bryden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43114#The-Gold-Kloof
 gutenberg_issued: '2013-07-06'
 gutenberg_type: Text
 identifiers:
